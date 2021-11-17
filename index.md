@@ -6,7 +6,9 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 
 ### Schedule Winter 2022
 
-Tuesday (in person Room 292A) / Thursdays (online) 11:30 am - 13:00 pm (PT)
+Tuesday (in person Room 292A) / Thursdays (online) 
+
+11:30 am - 13:00 pm (PT)
 
 3 Units: Letter (ABCD/NC)
 
