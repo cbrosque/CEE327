@@ -11,11 +11,11 @@ Tuesday (in person Room 292A) / Thursdays (online) 11:30 am - 13:00 pm (PT)
 
 ### Course Instructors
 
-![CB](Cynthia.png)  ![MF](martin.png)
+![CB](Cynthia.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![MF](martin.png)
 
-[Cynthia Brosque](https://www.linkedin.com/in/cbrosque/) [Martin Fischer](https://www.linkedin.com/in/martin-fischer-5b314){: align="right"}
+[Cynthia Brosque](https://www.linkedin.com/in/cbrosque/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Martin Fischer](https://www.linkedin.com/in/martin-fischer-5b314)
 
-PhD Candidate CEE   Kumagai Professor in the School of Engineering
+PhD Candidate CEE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kumagai Professor Engineering
 
 - Senior Fellow at the Precourt Institute for Energy
 
