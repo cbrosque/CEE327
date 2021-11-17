@@ -13,7 +13,7 @@ Tuesday (in person Room 292A) / Thursdays (online) 11:30 am - 13:00 pm (PT)
 
 ![CB](Cynthia.png)  ![MF](martin.png)
 
-[Cynthia Brosque](https://www.linkedin.com/in/cbrosque/)  [Martin Fischer](https://www.linkedin.com/in/martin-fischer-5b314)
+[Cynthia Brosque](https://www.linkedin.com/in/cbrosque/) [Martin Fischer](https://www.linkedin.com/in/martin-fischer-5b314){: align="right"}
 
 PhD Candidate CEE   Kumagai Professor in the School of Engineering
 
