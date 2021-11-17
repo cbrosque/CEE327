@@ -1,10 +1,10 @@
-![Previous cases](Picture1.png)
-
 Advances in technologies, such as sensing, positioning, and computing, combined with Building Information Models (BIM) enable the use of robots in unstructured environments like construction. Class sessions contrast the development of construction robots with manufacturing robots, showcase the application of construction robots to at least ten tasks, such as drilling, painting, layout, bricklaying, etc., and introduce the Robotics Evaluation Framework (REF). The small-group class project carried out with industry partners applies the REF to compare the health and safety, quality, schedule, and cost performance of robotic and traditional construction methods.
 
 [Course Explore](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CEE+327%3A+Construction+Robotics&collapse=)
 
 3 Units: Letter (ABCD/NC)
+
+![Previous cases](Picture1.png)
 
 ![RQ](Picture2.png)
 
@@ -20,7 +20,7 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 - Civil and Environmental Engineering
 - [Linkedin](https://www.linkedin.com/in/martin-fischer-5b314/)
 
-![RQ](Picture2.png)
+![Robots](Robots.png)
 
 ### Schedule Winter 2022
 
@@ -42,8 +42,6 @@ Thursday: online
 ### Interested in Participating?
 
 Fill out this [survey](https://forms.gle/VFgrKs297nNJDwcS9)
-
-![RQ](Picture4.png)
 
 ![Logo](Capture.PNG)
 
