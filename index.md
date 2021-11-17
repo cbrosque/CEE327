@@ -30,9 +30,9 @@ Tuesday: in-person Room 292A
 
 Thursday: online
 
-![REF](Picture3.png)
-
 ### Expected Learning Outcomes
+
+![REF](Picture3.png)
 
 - Contrast manufacturing and construction
 - Evaluate the readiness of promising construction robots with the Robotics Evaluation Framework
