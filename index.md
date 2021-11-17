@@ -7,19 +7,19 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 ### Schedule Winter 2022
 
 Tuesday (in person Room 292A) / Thursdays (online) 
-
-11:30 am - 13:00 pm (PT)
-
+  11:30 am - 13:00 pm (PT)
 3 Units: Letter (ABCD/NC)
 
 ### Course Instructors
 
 [Cynthia Brosque](cbrosque@stanford.edu)
+
 ![CB](Cynthia.png)
 - PhD Candidate Civil and Environmental Engineering
 - [Linkedin](https://www.linkedin.com/in/cbrosque/)
 
 [Martin Fischer](fischer@stanford.edu)
+
 ![MF](martin.png)
 - Kumagai Professor in the School of Engineering
 - Senior Fellow at the Precourt Institute for Energy
