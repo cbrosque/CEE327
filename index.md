@@ -1,5 +1,3 @@
-## CEE 327: Construction Robotics
-
 ![Previous cases](Picture1.png)
 
 Advances in technologies, such as sensing, positioning, and computing, combined with Building Information Models (BIM) enable the use of robots in unstructured environments like construction. Class sessions contrast the development of construction robots with manufacturing robots, showcase the application of construction robots to at least ten tasks, such as drilling, painting, layout, bricklaying, etc., and introduce the Robotics Evaluation Framework (REF). The small-group class project carried out with industry partners applies the REF to compare the health and safety, quality, schedule, and cost performance of robotic and traditional construction methods.
@@ -12,22 +10,15 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 
 ### Course Instructors
 
-Cynthia Brosque
+[Cynthia Brosque](cbrosque@stanford.edu)
+- PhD Candidate Civil and Environmental Engineering
+- [Linkedin](https://www.linkedin.com/in/cbrosque/)
 
-PhD Candidate Civil and Environmental Engineering
-
-cbrosque@stanford.edu - [Linkedin](https://www.linkedin.com/in/cbrosque/)
-
-
-Martin Fischer
-
-Kumagai Professor in the School of Engineering
-
-Senior Fellow at the Precourt Institute for Energy
-
-Civil and Environmental Engineering
-
-fischer@stanford.edu - [Linkedin](https://www.linkedin.com/in/martin-fischer-5b314/)
+[Martin Fischer](fischer@stanford.edu)
+- Kumagai Professor in the School of Engineering
+- Senior Fellow at the Precourt Institute for Energy
+- Civil and Environmental Engineering
+- [Linkedin](https://www.linkedin.com/in/martin-fischer-5b314/)
 
 ![RQ](Picture2.png)
 
@@ -50,11 +41,10 @@ Thursday: online
 
 ### Interested in Participating?
 
-Fill out this [survey] (https://forms.gle/VFgrKs297nNJDwcS9)
+Fill out this [survey](https://forms.gle/VFgrKs297nNJDwcS9)
 
 ![RQ](Picture4.png)
 
-Research and class suported by CIFE, Stanford
 ![Logo](Capture.PNG)
 
 <!-- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
