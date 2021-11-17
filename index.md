@@ -12,15 +12,15 @@ Tuesday (in person Room 292A) / Thursdays (online)
 
 ### Course Instructors
 
-[Cynthia Brosque](cbrosque@stanford.edu)
-
 ![CB](Cynthia.png)
+
+[Cynthia Brosque](cbrosque@stanford.edu)
 - PhD Candidate Civil and Environmental Engineering
 - [Linkedin](https://www.linkedin.com/in/cbrosque/)
 
-[Martin Fischer](fischer@stanford.edu)
-
 ![MF](martin.png)
+
+[Martin Fischer](fischer@stanford.edu)
 - Kumagai Professor in the School of Engineering
 - Senior Fellow at the Precourt Institute for Energy
 - Civil and Environmental Engineering
