@@ -6,8 +6,8 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 
 ### Schedule Winter 2022
 
-Tuesday (in person Room 292A) / Thursdays (online) 11:30 am - 13:00 pm (PT)
-  3 Units: Letter (ABCD/NC)
+Tuesday (in person Room 292A) / Thursdays (online) 11:30 am - 13:00 pm
+3 Units: Letter (ABCD/NC)
 
 ### Course Instructors
 
@@ -15,9 +15,9 @@ Tuesday (in person Room 292A) / Thursdays (online) 11:30 am - 13:00 pm (PT)
 
 [Cynthia Brosque](https://www.linkedin.com/in/cbrosque/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Martin Fischer](https://www.linkedin.com/in/martin-fischer-5b314)
 
-PhD Candidate CEE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kumagai Professor Engineering
+PhD Candidate CEE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kumagai Professor Engineering
 
-- Senior Fellow at the Precourt Institute for Energy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Senior Fellow at the Precourt Institute for Energy
 
 ![RQ](Picture2.png)
 
@@ -36,9 +36,9 @@ PhD Candidate CEE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 ### Interested in Participating?
 
-Students - Fill out this [survey](https://forms.gle/VFgrKs297nNJDwcS9)
+Students please fill out this [survey](https://forms.gle/VFgrKs297nNJDwcS9)
 
-Industry Partners and General Questions - cbrosque@stanford.edu
+Questions? cbrosque@stanford.edu
 
 ![Logo](Capture.PNG)
 
