@@ -33,7 +33,6 @@
   <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 
-* {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
