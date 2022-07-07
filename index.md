@@ -23,7 +23,7 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 (TBC) Tuesday (in person Room 292A) / Thursdays (online) 11:30 - 13:00 PT <br>
 3 Units: Letter (ABCD/NC) <br>
 
-<div style="width: 100%; float: left">
+<div style="width: 90%">
         <iframe width="500" height="315" src="https://www.youtube.com/embed/oaNdo6wDjbM"  title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
         </iframe>
 </div>        
