@@ -9,8 +9,8 @@ Figures from left to right: nLink concrete drilling robot, Build-R drywall placi
 
 ### Schedule Spring 2023
 
-(TBC) Tuesday (in person Room 292A) / Thursdays (online) 11:30 am - 13:00 pm &nbsp;&nbsp;&nbsp;
-3 Units: Letter (ABCD/NC)
+(TBC) Tuesday (in person Room 292A) / Thursdays (online) 11:30 - 13:00 PT <br>
+3 Units: Letter (ABCD/NC) <br>
 
 ### Course Instructors
 
