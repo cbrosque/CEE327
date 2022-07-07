@@ -5,11 +5,12 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 Figures from left to right: nLink concrete drilling robot, Build-R drywall placing robot, Dusty Robotics field printer layout robot.
 
 [Course Explore](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CEE+327%3A+Construction+Robotics&collapse=)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Syllabus](https://docs.google.com/document/d/1axCw7F6pt2tsJFUtcZH08e5YE9dmQM756-3l2wxinf4/edit?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Class Description](https://youtu.be/oaNdo6wDjbM)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Syllabus](https://docs.google.com/document/d/1axCw7F6pt2tsJFUtcZH08e5YE9dmQM756-3l2wxinf4/edit?usp=sharing)
 
-<iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oaNdo6wDjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<br>
+<iframe width="545" height="300" src="https://www.youtube.com/embed/oaNdo6wDjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
+<br>
 
 ### Schedule Spring 2023
 
