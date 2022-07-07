@@ -1,12 +1,12 @@
 <div class="row">
   <div class="column">
-    <img src="A.jfif" alt="Snow" style="width:100%">
+    <img src="A.jfif" alt="Snow" style="width:33%">
   </div>
   <div class="column">
-    <img src="B.jfif" alt="Forest" style="width:100%">
+    <img src="B.jfif" alt="Forest" style="width:33%">
   </div>
   <div class="column">
-    <img src="1.JPEG" alt="Mountains" style="width:100%">
+    <img src="1.JPEG" alt="Mountains" style="width:33%">
   </div>
 </div>
 
