@@ -1,4 +1,4 @@
-<iframe width=100% src="https://www.youtube.com/embed/oaNdo6wDjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width: 100% src="https://www.youtube.com/embed/oaNdo6wDjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 
@@ -12,7 +12,16 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
           <a href="https://docs.google.com/document/d/1axCw7F6pt2tsJFUtcZH08e5YE9dmQM756-3l2wxinf4/edit?usp=sharing">Syllabus</a>
         </div>
 </div>
-<img src="A.jfif" alt="Snow" style="width:80%">
+<div style="width: 100%;">
+        <div style="width: 50%; float: left"> 
+        <img src="B.jfif">
+        </div>
+        <div style="margin-left: 50%">
+        <img src="1.JPEG">
+        </div>
+    </div>
+
+<!--<img src="A.jfif" alt="Snow" style="width:80%">-->
 
 ### Schedule Spring 2023
 
@@ -28,15 +37,6 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 PhD CEE/Adjust Professor &nbsp;&nbsp; Kumagai Professor School of Engineering
 
 ![RQ](Picture2.png)
-
-<div style="width: 100%;">
-        <div style="width: 50%; float: left"> 
-        <img src="B.jfif">
-        </div>
-        <div style="margin-left: 50%">
-        <img src="1.JPEG">
-        </div>
-    </div>
 
 ### Expected Learning Outcomes
 
