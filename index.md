@@ -18,8 +18,7 @@ Figures from left to right: nLink concrete drilling robot, Build-R drywall placi
 
 [Cynthia Brosque](https://www.linkedin.com/in/cbrosque/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Martin Fischer](https://www.linkedin.com/in/martin-fischer-5b314)
 
-PhD Candidate CEE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kumagai Professor School of Engineering
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior Fellow at the Precourt Institute for Energy
+PhD CEE/Adjust Professor &nbsp;&nbsp; Kumagai Professor School of Engineering
 
 ![RQ](Picture2.png)
 
@@ -35,6 +34,10 @@ PhD Candidate CEE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 ### Previous Industry Partners
 
 ![Previous cases](Picture1.png)
+
+[Safety, quality, schedule, and cost impacts of ten construction robots](https://link.springer.com/article/10.1007/s41693-022-00072-5)
+[The robots are coming](https://podcasts.apple.com/us/podcast/the-robots-are-coming/id1522789533?i=1000568254125)
+[Research Presentations](https://linktr.ee/cbrosque)
 
 ### Interested in Participating?
 
