@@ -17,15 +17,18 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
           <a href="https://docs.google.com/document/d/1axCw7F6pt2tsJFUtcZH08e5YE9dmQM756-3l2wxinf4/edit?usp=sharing">Syllabus</a>
         </div>
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oaNdo6wDjbM"  title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-<!--<img src="A.jfif" alt="Snow" style="width:80%">-->
-
 
 ### Schedule Spring 2023
 
 (TBC) Tuesday (in person Room 292A) / Thursdays (online) 11:30 - 13:00 PT <br>
 3 Units: Letter (ABCD/NC) <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oaNdo6wDjbM"  title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<!--<img src="A.jfif" alt="Snow" style="width:80%">-->
+
+
+
 
 ### Course Instructors
 
