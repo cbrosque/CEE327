@@ -15,10 +15,8 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
         </div>
     </div>
 
-<br>
 <iframe width="545" height="300" src="https://www.youtube.com/embed/oaNdo6wDjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<br>
 
 ### Schedule Spring 2023
 
