@@ -35,9 +35,9 @@ PhD CEE/Adjust Professor &nbsp;&nbsp; Kumagai Professor School of Engineering
 
 ![Previous cases](Picture1.png)
 
-[Safety, quality, schedule, and cost impacts of ten construction robots](https://link.springer.com/article/10.1007/s41693-022-00072-5)
-[The robots are coming](https://podcasts.apple.com/us/podcast/the-robots-are-coming/id1522789533?i=1000568254125)
-[Research Presentations](https://linktr.ee/cbrosque)
+[Safety, quality, schedule, and cost impacts of ten construction robots](https://link.springer.com/article/10.1007/s41693-022-00072-5)<br>
+[The robots are coming](https://podcasts.apple.com/us/podcast/the-robots-are-coming/id1522789533?i=1000568254125)<br>
+[Research Presentations](https://linktr.ee/cbrosque)<br>
 
 ### Interested in Participating?
 
