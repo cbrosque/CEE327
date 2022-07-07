@@ -1,4 +1,4 @@
-<div class="row">
+<!--<div class="row">
   <div class="column">
     <img src="A.jfif" alt="Snow" style="width:100%">
   </div>
@@ -8,12 +8,40 @@
   <div class="column">
     <img src="1.JPEG" alt="Mountains" style="width:100%">
   </div>
-</div>
+</div>-->
 
-<figure>
+<div class="container">
+
+  <!-- Full-width images with number text -->
+  <div class="mySlides">
+    <div class="numbertext">1 / 3</div>
+      <img src="A.jfif" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 3</div>
+      <img src="B.jfif" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 3</div>
+      <img src="1.JPEG" style="width:100%">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  <!-- Image text -->
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+</div>
+  
+<!--<figure>
   <img src="Robots.png">
   <figcaption><i>nLink concrete drilling robot, Build-R drywall placing robot, Dusty Robotics field printer layout robot.</i></figcaption>
-</figure>
+</figure>-->
 
 Advances in technologies, such as sensing, positioning, and computing, combined with Building Information Models (BIM) enable the use of robots in unstructured environments like construction. Class sessions contrast the development of construction robots with manufacturing robots, showcase the application of construction robots to at least ten tasks, such as drilling, painting, layout, bricklaying, etc., and introduce the Robotics Evaluation Framework (REF). The small-group class project carried out with industry partners applies the REF to compare the health and safety, quality, schedule, and cost performance of robotic and traditional construction methods.
 
