@@ -1,11 +1,23 @@
 ![Robots](Robots.png)
 
-Advances in technologies, such as sensing, positioning, and computing, combined with Building Information Models (BIM) enable the use of robots in unstructured environments like construction. Class sessions contrast the development of construction robots with manufacturing robots, showcase the application of construction robots to at least ten tasks, such as drilling, painting, layout, bricklaying, etc., and introduce the Robotics Evaluation Framework (REF). The small-group class project carried out with industry partners applies the REF to compare the health and safety, quality, schedule, and cost performance of robotic and traditional construction methods.
+<figure>
+  <img src="Robots.png" alt="Trulli" style="width:100%">
+  <figcaption>nLink concrete drilling robot, Build-R drywall placing robot, Dusty Robotics field printer layout robot.</figcaption>
+</figure>
 
-Figures from left to right: nLink concrete drilling robot, Build-R drywall placing robot, Dusty Robotics field printer layout robot.
+Advances in technologies, such as sensing, positioning, and computing, combined with Building Information Models (BIM) enable the use of robots in unstructured environments like construction. Class sessions contrast the development of construction robots with manufacturing robots, showcase the application of construction robots to at least ten tasks, such as drilling, painting, layout, bricklaying, etc., and introduce the Robotics Evaluation Framework (REF). The small-group class project carried out with industry partners applies the REF to compare the health and safety, quality, schedule, and cost performance of robotic and traditional construction methods.
 
 [Course Explore](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CEE+327%3A+Construction+Robotics&collapse=)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Syllabus](https://docs.google.com/document/d/1axCw7F6pt2tsJFUtcZH08e5YE9dmQM756-3l2wxinf4/edit?usp=sharing)
+
+<div style="width: 100%;">
+        <div style="width: 50%; height: 100px; float: left"> 
+            [Course Explore](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CEE+327%3A+Construction+Robotics&collapse=) 
+        </div>
+        <div style="margin-left: 50%; height: 100px; background: blue;"> 
+            [Syllabus](https://docs.google.com/document/d/1axCw7F6pt2tsJFUtcZH08e5YE9dmQM756-3l2wxinf4/edit?usp=sharing)
+        </div>
+    </div>
 
 <br>
 <iframe width="545" height="300" src="https://www.youtube.com/embed/oaNdo6wDjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
