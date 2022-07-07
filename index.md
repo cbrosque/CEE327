@@ -1,8 +1,6 @@
-<div class="row">
-    <img src="A.jfif" alt="Snow" style="width:33%">
-    <img src="B.jfif" alt="Forest" style="width:33%">
-    <img src="1.JPEG" alt="Mountains" style="width:33%">
-</div>
+<iframe width="545" height="300" src="https://www.youtube.com/embed/oaNdo6wDjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
 
 Advances in technologies, such as sensing, positioning, and computing, combined with Building Information Models (BIM) enable the use of robots in unstructured environments like construction. Class sessions contrast the development of construction robots with manufacturing robots, showcase the application of construction robots to at least ten tasks, such as drilling, painting, layout, bricklaying, etc., and introduce the Robotics Evaluation Framework (REF). The small-group class project carried out with industry partners applies the REF to compare the health and safety, quality, schedule, and cost performance of robotic and traditional construction methods.
 
@@ -15,8 +13,8 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
         </div>
     </div>
 
-<iframe width="545" height="300" src="https://www.youtube.com/embed/oaNdo6wDjbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<img src="A.jfif" alt="Snow" style="width:100%">
+
 
 ### Schedule Spring 2023
 
@@ -32,6 +30,9 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 PhD CEE/Adjust Professor &nbsp;&nbsp; Kumagai Professor School of Engineering
 
 ![RQ](Picture2.png)
+
+<img src="B.jfif" alt="Forest" style="width:50%">
+<img src="1.JPEG" alt="Mountains" style="width:50%">
 
 ### Expected Learning Outcomes
 
