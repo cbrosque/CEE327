@@ -20,7 +20,7 @@ Advances in technologies, such as sensing, positioning, and computing, combined 
 
 ### Schedule Spring 2023
 
-(TBC) Tuesday (in person Room 292A) / Thursdays (online) 11:30 - 13:00 PT <br>
+Tu/Thu 9:00 AM - 10:20 AM at Y2E2 292A <br>
 3 Units: Letter (ABCD/NC) <br>
 
 <div style="width: 90%">
